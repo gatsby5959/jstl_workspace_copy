@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;jstl_study/src/main/webapp/step1.jsp&apos; to &apos;step1-if.jsp&apos;" description="Rename resource &apos;step1.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/step1.jsp" name="step1-if.jsp" stamp="1693563507466" updateReferences="true"/>
+</session>
